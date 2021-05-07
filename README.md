@@ -1,3 +1,5 @@
+# This is a customized version with Java and Maven installed
+
 # AWS-CDK GitHub Actions
 
 AWS-CDK GitHub Actions allow you to run `cdk deploy` and `cdk diff` and ... on your pull requests to help you review.
